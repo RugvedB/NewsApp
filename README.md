@@ -9,8 +9,12 @@
   
  
 
+  
+  
+ # Demo:
+  ![newsapp_web](https://user-images.githubusercontent.com/51147262/78800618-47577700-79d9-11ea-9d2e-f1c6a0a6d5e0.gif)
+  ![newsapp_android](https://user-images.githubusercontent.com/51147262/78800585-3c9ce200-79d9-11ea-9cbd-3d505367fc78.gif)
+
 
 # Links :
   * [News API](https://newsapi.org/docs/get-started)  
-  * [Web interface demo](https://drive.google.com/file/d/16yvcD2utx02-ouhK1SGS3qCI7cU09eoj/view?usp=sharing)  
-  * [Android interface demo](https://drive.google.com/file/d/1ekkl_wSWhAV3v_rl0gUgeO4l6y3HK7xy/view?usp=sharing)  
