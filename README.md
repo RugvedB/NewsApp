@@ -18,3 +18,4 @@
 
 # Links :
   * [News API](https://newsapi.org/docs/get-started)  
+  * <a href="https://github.com/RugvedB/NewsApp/blob/master/app-release.apk" download>Download NewsApp<a/>
